@@ -1,0 +1,61 @@
+html {
+    border: 10px solid;
+}
+table,th,td {
+    border:  1px solid black;
+}
+
+.log {
+    border-radius:50%;
+    height:170px;
+    width:170px;
+    margin-left:100px;
+}
+.msit {
+    border-radius:50%;
+    height:170px;
+    width:170px;
+    margin-left:10px;
+}
+
+
+.h {
+    background-color: gray;
+}
+ol {
+    height:100px;
+    width:100px;
+}
+
+
+.svu {
+    height:210px;
+    width:190px;
+    margin-left:80px;
+    border-radius:50% 50% 50% 50%;
+
+}
+
+.jntuka {
+    border-radius:50%;
+    height:190px;
+    width:180px;
+    margin-left:80px;
+}
+
+.jntu {
+    height:180px;
+    width:270px;
+    margin-left:100px;
+    border-radius:50%;
+
+
+}
+
+.learn {
+    text-align:center;
+}
+
+.hideDivs{
+    display:none; 
+}
